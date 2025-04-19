@@ -174,14 +174,6 @@ python main.py
 
 ---
 
-## 👥 Team
-
-- [Your Name] – Model Development & Report
-- [Teammate Name] – UI & Integration
-- Supervisor: Mr. K. Anish, MCA
-
----
-
 ## 📎 License
 
 This project is for academic use. For commercial or clinical deployment, please consult with the developers and adhere to medical device regulations.
