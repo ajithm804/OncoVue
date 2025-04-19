@@ -54,6 +54,11 @@ Follow these steps to set up **OncoVue** locally:
 - Git
 - (Optional) Virtualenv
 
+### Download Model
+
+You need to download the trained model file from [Google Drive](https://drive.google.com/file/d/1_-ZmD-7rEn2S0KlETGmczkvxfpq2V7o3/view?usp=sharing).
+
+
 ### 1. Clone the Repository
 
 ```bash
