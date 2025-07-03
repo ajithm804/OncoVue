@@ -182,6 +182,7 @@ python main.py
 ## 📎 License
 
 This project is for academic use. For commercial or clinical deployment, please consult with the developers and adhere to medical device regulations.
+[Ajith Mathew, Contact:](ajithm804@gmail.com)
 
 ---
 
