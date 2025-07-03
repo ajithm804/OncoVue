@@ -185,7 +185,7 @@ This project is for academic use. For commercial or clinical deployment, please 
 
 ---
 
-✍️ **Prepared by:** Ajith Mathew  
+✍️ **Scripted by:** Ajith Mathew  
 📧 **Contact:** [ajithm804@gmail.com](mailto:ajithm804@gmail.com)
 
 
